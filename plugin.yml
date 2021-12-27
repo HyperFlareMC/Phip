@@ -1,0 +1,5 @@
+name: Phip
+version: 1.0.0
+main: HyperFlareMC\phip\Phip
+api: 4.0.0
+author: HyperFlareMC
